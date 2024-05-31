@@ -4,7 +4,7 @@
 
 💻 Passionate about problem-solving and web development.
 
-🛠️ Skilled in JavaScript, HTML, CSS, and React.
+🛠️ Skilled in  HTML, CSS, JavaScript and React.
 
 📈 Always eager to learn and take on new challenges.
 
